@@ -12,3 +12,5 @@
     background-image: url(https://raw.githubusercontent.com/Lylythii/OnekoStyles/main/onekoslvt.png) !important;
 }
 ```
+
+![Icons](https://raw.githubusercontent.com/Lylythii/OnekoStyles/main/banner.png)
